@@ -1,4 +1,4 @@
-#test comment to learn git
+#Author is Flynn Acworth
 file_content = open("zeros_and_ones.txt").read()
 # I took the below method of counting from Vasilis' email. I assume that calculating the 1's this way is faster computationally
 # and that is the reason for not simply running another .count on the file?
